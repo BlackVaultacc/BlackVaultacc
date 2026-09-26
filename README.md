@@ -1,43 +1,41 @@
 # BLACKVAULT 🔐
 
-Private project portfolio. Each repository is a self-contained software project with its own README (purpose, language/stack, current stage, and forward plan) and a STAGE label in its description.
+Private portfolio of AI-built software. Each repository follows the `blackvault-*` naming convention, carries a `BlackVault | <Name>` description with a STAGE label, and contains a README (purpose, language/stack, stage, plan) plus a ROADMAP.md of next actions.
 
 ## Projects
 
 ### 🌐 Web Applications
-- **[blackvault](https://github.com/BlackVaultacc/blackvault)** — `BETA` · Trilingual Telegram bot + web store for digital inventory (BTCPay crypto checkout)
-- **[blackvault-developer](https://github.com/BlackVaultacc/blackvault-developer)** — `WIP` · Go + Next.js workspace for customer/banking accounts, encrypted credentials, document requests
-- **[utility-document-generator](https://github.com/BlackVaultacc/utility-document-generator)** — `READY` · Self-hosted document verification & autofill studio (proof of address/funds/wealth, OCR)
+- **Shop** · `BETA` — [blackvault-shop](https://github.com/BlackVaultacc/blackvault-shop) — Telegram bot + web store, BTCPay/USDT-TRON checkout
+- **Developer** · `WIP` — [blackvault-developer](https://github.com/BlackVaultacc/blackvault-developer) — Go + Next.js accounts workspace
+- **Document Verifier** · `READY` — [blackvault-doc-verifier](https://github.com/BlackVaultacc/blackvault-doc-verifier) — doc verification & autofill studio (OCR)
 
 ### 💬 Telegram Automation
-- **[blackbridge-bots](https://github.com/BlackVaultacc/blackbridge-bots)** — `READY` · Post manager + client-support bots (deployed)
-- **[telegram-sender-v1](https://github.com/BlackVaultacc/telegram-sender-v1)** — `READY` · Legacy single-account scheduled poster
-- **[reputation-watch](https://github.com/BlackVaultacc/reputation-watch)** — `BETA` · Reputation monitor (domains/IPs/URLs vs 8+ APIs)
+- **BlackBridge** · `READY` — [blackvault-blackbridge](https://github.com/BlackVaultacc/blackvault-blackbridge) — post manager + client support
+- **Sender v1** · `READY` — [blackvault-sender-v1](https://github.com/BlackVaultacc/blackvault-sender-v1) — legacy scheduled poster
+- **Reputation Watch** · `BETA` — [blackvault-reputation-watch](https://github.com/BlackVaultacc/blackvault-reputation-watch) — domain/IP/URL reputation monitor
 
 ### 📱 TikTok
-- **[tiktok-farm](https://github.com/BlackVaultacc/tiktok-farm)** — `WIP` · 10-phone account farm
-- **[tiktok-dm-bot](https://github.com/BlackVaultacc/tiktok-dm-bot)** — `BETA` · DM auto-reply bot (Playwright + LLM)
+- **TikTok Farm** · `WIP` — [blackvault-tiktok-farm](https://github.com/BlackVaultacc/blackvault-tiktok-farm) — 10-phone account farm
+- **TikTok DM Bot** · `BETA` — [blackvault-tiktok-dm](https://github.com/BlackVaultacc/blackvault-tiktok-dm) — DM auto-reply (Playwright + LLM)
 
 ### 🛡️ Security
-- **[tumbler](https://github.com/BlackVaultacc/tumbler)** — `READY` · Offensive-security framework (SQLi engine + 30 modules)
-- **[leak-channel-scraper](https://github.com/BlackVaultacc/leak-channel-scraper)** — `WIP` · Telegram leak-channel recon
+- **TUMBLER** · `READY` — [blackvault-tumbler](https://github.com/BlackVaultacc/blackvault-tumbler) — offensive-security framework
+- **Leak Scraper** · `WIP` — [blackvault-leak-scraper](https://github.com/BlackVaultacc/blackvault-leak-scraper) — Telegram leak-channel recon
 
 ### 🛠️ Tools & Infrastructure
-- **[parser](https://github.com/BlackVaultacc/parser)** — `WIP` · Web archiver/crawler + WooCommerce export
-- **[phone-proxy-farm](https://github.com/BlackVaultacc/phone-proxy-farm)** — `SCAFFOLD` · Phone SOCKS5 proxy farm
-- **[forgephone](https://github.com/BlackVaultacc/forgephone)** — `READY` · Windows phone-number generator
+- **Parser** · `WIP` — [blackvault-parser](https://github.com/BlackVaultacc/blackvault-parser) — web archiver/crawler
+- **Phone Proxy** · `SCAFFOLD` — [blackvault-phone-proxy](https://github.com/BlackVaultacc/blackvault-phone-proxy) — phone SOCKS5 proxy farm
+- **ForgePhone** · `READY` — [blackvault-forgephone](https://github.com/BlackVaultacc/blackvault-forgephone) — Windows phone-number generator
 
 ### 🖥️ Desktop
-- **[matrix-ai](https://github.com/BlackVaultacc/matrix-ai)** — `WIP` · Windows desktop AI chat app
+- **Matrix AI** · `WIP` — [blackvault-matrix](https://github.com/BlackVaultacc/blackvault-matrix) — Windows desktop AI chat app
+
+### 🎨 Client / Other
+- **Slang Bot** · `BETA` — [blackvault-slang-bot](https://github.com/BlackVaultacc/blackvault-slang-bot) — Bulgarian sales assistant
+- **Watermark Studio** · `READY` — [blackvault-watermark](https://github.com/BlackVaultacc/blackvault-watermark) — Flask watermarking app
+- **Nuvora Theme** · `READY` — [blackvault-nuvora](https://github.com/BlackVaultacc/blackvault-nuvora) — WooCommerce theme
+- **Five Storefronts** · `READY` — [blackvault-five-stores](https://github.com/BlackVaultacc/blackvault-five-stores) — 5 Next.js e-commerce sites
 
 ---
 
 *Stage legend: `IDEA → SCAFFOLD → WIP → BETA → READY → MAINTENANCE`. READY = feature-complete, not finished — every project continues into ongoing testing & improvement.*
-
----
-
-### 🆕 Client / Other Projects
-- **[slang-bot](https://github.com/BlackVaultacc/slang-bot)** — `BETA` · Bulgarian sales-assistant bot (OpenAI Responses API)
-- **[watermark-studio](https://github.com/BlackVaultacc/watermark-studio)** — `READY` · Flask image/video watermarking app
-- **[nuvora-woocommerce-theme](https://github.com/BlackVaultacc/nuvora-woocommerce-theme)** — `READY` · Custom WooCommerce theme
-- **[five-company-websites](https://github.com/BlackVaultacc/five-company-websites)** — `READY` · 5 Next.js e-commerce storefronts
