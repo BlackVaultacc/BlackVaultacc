@@ -33,3 +33,11 @@ Private project portfolio. Each repository is a self-contained software project 
 ---
 
 *Stage legend: `IDEA → SCAFFOLD → WIP → BETA → READY → MAINTENANCE`. READY = feature-complete, not finished — every project continues into ongoing testing & improvement.*
+
+---
+
+### 🆕 Client / Other Projects
+- **[slang-bot](https://github.com/BlackVaultacc/slang-bot)** — `BETA` · Bulgarian sales-assistant bot (OpenAI Responses API)
+- **[watermark-studio](https://github.com/BlackVaultacc/watermark-studio)** — `READY` · Flask image/video watermarking app
+- **[nuvora-woocommerce-theme](https://github.com/BlackVaultacc/nuvora-woocommerce-theme)** — `READY` · Custom WooCommerce theme
+- **[five-company-websites](https://github.com/BlackVaultacc/five-company-websites)** — `READY` · 5 Next.js e-commerce storefronts
